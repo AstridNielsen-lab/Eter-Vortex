@@ -44,3 +44,42 @@ projeto_automacao
 - PostgreSQL / Firestore
 - Twilio
 - API Google Gemini
+
+#  Proteção Legal
+
+## Direitos Autorais e Propriedade Intelectual
+
+### 1.1. Lei de Direitos Autorais (Brasil)
+De acordo com a **Lei nº 9.610/1998** – Lei de Direitos Autorais:
+- **Art. 7º**: Protege programas de computador como obras intelectuais.
+- **Art. 24º**: Garante direitos morais ao criador.
+- **Art. 29º**: Regula cópias e distribuição.
+
+### 1.2. Tratados Internacionais
+- **Convenção de Berna (1886)**
+- **Acordo TRIPS**
+- **Digital Millennium Copyright Act (DMCA)**
+
+## Proteção contra Plágio e Uso Indevido
+O uso não autorizado do **Google Dorks Pro** está sujeito a penalidades legais:
+
+- **Art. 184** – Violação de direito autoral (2 a 4 anos de reclusão).
+- **Art. 171** – Estelionato e fraude digital (1 a 5 anos).
+- **Art. 195** da Lei de Propriedade Industrial.
+
+## Proteção do Código-fonte
+- **LGPD (Lei nº 13.709/2018)**
+- **Marco Civil da Internet (Lei nº 12.965/2014)**
+- **Lei dos Crimes Cibernéticos (Lei nº 12.737/2012)**
+
+- **Privacidade e termos de uso do Google**.
+- **LGPD - Lei nº 13.709/2018**.
+- **Código Penal Brasileiro - Art. 154-A**.
+
+## Contato para Assuntos Legais
+
+**Julio Campos Machado** (Criador e Desenvolvedor)  
+**Empresa**: Like Look Solutions  
+**WhatsApp**: +55 11 99294-6628  
+**Email**: [juliocamposmachado@gmail.com](mailto:juliocamposmachado@gmail.com)
+
